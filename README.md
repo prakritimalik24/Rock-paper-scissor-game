@@ -1,4 +1,5 @@
 # Rock-paper-scissor-game
+<<<<<<< HEAD
 
 
 
@@ -18,3 +19,8 @@ Scores are updated and the winner is displayed after each round along with the c
 3.The winner is determined using the standard Rock Paper Scissors rules.<br>
 4.Scores are updated after each round <br>
 
+=======
+This is a web game made using HTML , CSS and JS.
+<br>
+It allows two players to play together at a time .
+>>>>>>> c8c26ab9ac7d31fbd3d63b47ac3307d7a0b721d4
