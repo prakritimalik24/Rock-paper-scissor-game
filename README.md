@@ -1,2 +1,4 @@
 # Rock-paper-scissor-game
-Using HTML , CSS and JS
+This is a web game made using HTML , CSS and JS.
+<br>
+It allows two players to play together at a time .
