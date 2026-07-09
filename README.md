@@ -1,8 +1,4 @@
 # Rock-paper-scissor-game
-<<<<<<< HEAD
-
-
-
 This is a web game made using HTML , CSS and JS.
 <br>
 It allows the user to play against the computer and the winner is decided based on basic game rules.
